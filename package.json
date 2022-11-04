@@ -5,6 +5,12 @@
   "repository": "https://github.com/trg5503/vmix-web-utc.git",
   "license": "MIT",
   "private": false,
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "devDependencies": {
     "parcel": "^2.7.0"
   }
