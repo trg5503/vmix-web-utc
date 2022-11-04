@@ -4,5 +4,8 @@
   "description": "Web-based version of vMix Universal Title Controller",
   "repository": "https://github.com/trg5503/vmix-web-utc.git",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
 }
