@@ -1,0 +1,8 @@
+{
+  "name": "vmix-web-utc",
+  "version": "1.0.0",
+  "description": "Web-based version of vMix Universal Title Controller",
+  "repository": "https://github.com/trg5503/vmix-web-utc.git",
+  "license": "MIT",
+  "private": false
+}
